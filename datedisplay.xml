@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.7" type="plugin" group="content">
+	<name>Date-Display</name>
+	<author>David Jardin</author>
+	<creationDate>March 2017</creationDate>
+	<copyright>Copyright (C) 2017 David Jardin. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>info@jumla.de</authorEmail>
+	<authorUrl>www.djumla.de</authorUrl>
+	<version>1.0.0</version>
+	<description>Zeigt das aktuelle Abrufsdatum des Beitrags an.</description>
+
+	<files>
+		<filename plugin="datedisplay">datedisplay.php</filename>
+	</files>
+</extension>
